@@ -17,13 +17,14 @@ h1 {
     margin-bottom: 30px;
 }
 
-.boxesRow div{
-    height: 100px;
-}
-
 .firstDiv{
     background: red;
     border: 3px solid #000;
+}
+.firstDivNew{
+    background: pink;
+    border: 3px solid orange;
+
 }
 
 .secondDiv{
@@ -47,7 +48,7 @@ h1 {
     font-size: 30px;
 }
 
-span{
+.rowBtns span{
     background: gray;
     font-size: 25px;
 }
